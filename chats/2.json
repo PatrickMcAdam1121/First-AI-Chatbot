@@ -1,0 +1,16 @@
+{
+    "history": [],
+    "agents": [
+        "General AI"
+    ],
+    "auto_chat": false,
+    "personas": {
+        "General AI": "A helpful AI assistant"
+    },
+    "personality_traits": {
+        "General AI": [
+            "helpful",
+            "friendly"
+        ]
+    }
+}
