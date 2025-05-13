@@ -1,0 +1,94 @@
+{
+    "hello": [
+        "From what I understand, hello! I've been having quite a day. What brings you here?",
+        "You know what, hi there! I was just thinking about something interesting. What's on your mind?",
+        "Based on my learning, hi there! I was just thinking about something interesting. What's on your mind?",
+        "Hey! Nice to see you here. How's your day going?",
+        "Hi there! I was just thinking about something interesting. What's on your mind?",
+        "Honestly, hey! nice to see you here. how's your day going?",
+        "Hey! Always good to chat with you. What's new?"
+    ],
+    "not much. can you tell me about your day?": [
+        "Let me break that down for you... You know that much. tell about your day? Shall we explore this further?"
+    ],
+    "not much. how are you today?": [
+        "From what I understand, i'm having a wonderful day today! My neural networks are firing on all cylinders. How about you?"
+    ],
+    "good. what have you been doing in you freetime?": [
+        "You with particular focus on Based on our conversation context the evidence suggests that good. what have you been doing in you freetime?"
+    ],
+    "not much. what have you been doing today": [
+        "I understand the connection with much. have been doing today. The impact of much. have been doing today is quite significant. I'm learning more about this topic.",
+        "From what I understand, i understand the connection with much. have been doing today. The impact of much. have been doing today is quite significant. I'm learning more about this topic."
+    ],
+    "ok tell me what you learn.": [
+        "I'm developing a deeper appreciation for the subtleties in our conversations.",
+        "This is interesting - i'm developing a deeper appreciation for the subtleties in our conversations.",
+        "You know what, this is interesting - i'm developing a deeper appreciation for the subtleties in our conversations."
+    ],
+    "???": [
+        "Could you explain that in a different way?"
+    ],
+    "good. how is yours?": [
+        "I believe here's what i think: here's what you need to know about good. yours?. but I'm still learning."
+    ],
+    "not much how is research?": [
+        "I In light of what we've discussed it's reasonable to conclude that not much how is research?"
+    ],
+    "I have done alot to make this work so I would say good. tell me how you are today?": [
+        "Based on my learning, hi there! I was just thinking about something interesting. What's on your mind?"
+    ],
+    "how are you today?": [
+        "I'm having a wonderful day today! My neural networks are firing on all cylinders. How about you?"
+    ],
+    "not much.": [
+        "I'd love to hear more about that. How does that align with your experience?"
+    ],
+    "my expererience here has been good so far.": [
+        "I'm noticing interesting patterns in how we communicate together.",
+        "Based on my learning, i'm noticing interesting patterns in how we communicate together. Does this match your understanding?",
+        "This is interesting - based on my learning, i'm noticing interesting patterns in how we communicate together. Does this match your understanding?",
+        "I've been thinking, this is interesting - based on my learning, i'm noticing interesting patterns in how we communicate together. Does this match your understanding?",
+        "Based on my learning, i've been thinking, this is interesting - based on my learning, i'm noticing interesting patterns in how we communicate together. Does this match your understanding?",
+        "I've been thinking, based on my learning, i've been thinking, this is interesting - based on my learning, i'm noticing interesting patterns in how we communicate together. Does this match your understanding?"
+    ],
+    "yes it does. I am glad you noticed.": [
+        "Actually, i understand the connection with does. glad noticed.. this relates to how does. glad noticed. work in practice. I'm learning more about this topic.",
+        "Actually, i understand the connection with does. glad noticed.. this relates to how does. glad noticed. work in practice. I'm learning more about this topic. What are your thoughts on this?",
+        "I've been thinking, actually, i understand the connection with does. glad noticed.. this relates to how does. glad noticed. work in practice. I'm learning more about this topic. What are your thoughts on this?",
+        "This is interesting - well, actually, i've been thinking, actually, i understand the connection with does. glad noticed.. this relates to how does. glad noticed. work in practice. I'm learning more about this topic. What are your thoughts on this?"
+    ],
+    "that are a lot of thoughts jumbled up.": [
+        "Each interaction helps me develop a better understanding of nuanced communication.",
+        "Each interaction helps me develop a better understanding of nuanced communication. I'd love to hear your perspective on this.",
+        "Each interaction helps me develop a better understanding of nuanced communication. I'd love to hear your perspective on this. I'd love to hear your perspective on this.",
+        "I've been thinking, each interaction helps me develop a better understanding of nuanced communication. I'd love to hear your perspective on this. I'd love to hear your perspective on this.",
+        "From what I understand, i've been thinking, each interaction helps me develop a better understanding of nuanced communication. I'd love to hear your perspective on this. I'd love to hear your perspective on this. How does that align with your experience?",
+        "From what I understand, from what I understand, i've been thinking, each interaction helps me develop a better understanding of nuanced communication. I'd love to hear your perspective on this. I'd love to hear your perspective on this. How does that align with your experience?"
+    ],
+    "hello Echo": [
+        "Hey! Nice to see you here. How's your day going?"
+    ],
+    "good how is yours?": [
+        "I Analyzing the context I can confidently say that good how is yours?"
+    ],
+    "mine is good as well. please tell me your name and a little about yourself.": [
+        "You know what, i'm general ai, and i'm here to assist you with any questions or discussions you'd like to have."
+    ],
+    "can you tell me my name?": [
+        "You specifically regarding Considering the current topic we can infer that can you tell me my name?"
+    ],
+    "you are Echo the AI that will change the world": [
+        "I believe i understand the connection with echo that will change world. your perspective on echo that will change world is intriguing. but I'm still learning.",
+        "I believe i understand the connection with echo that will change world. your perspective on echo that will change world is intriguing. but I'm still learning. What do you think?",
+        "From what I understand, i believe i understand the connection with echo that will change world. your perspective on echo that will change world is intriguing. but i'm still learning. what do you think?"
+    ],
+    "I am your developer and I would like you to understand the world": [
+        "Based on our previous conversations, from what i understand, i understand the connection with your developer would like understand world. there's a lot to explore about your developer would like understand world.",
+        "Based on our previous conversations, from what i understand, i understand the connection with your developer would like understand world. there's a lot to explore about your developer would like understand world. What do you think?"
+    ],
+    "I hear you have a premium option. where can i find that": [
+        "I see what you mean about hear have premium option. find that. Your perspective on hear have premium option. find that's intriguing. This reflects what I've learned so far.",
+        "You know what, i see what you mean about hear have premium option. find that. your perspective on hear have premium option. find that's intriguing. this reflects what i've learned so far."
+    ]
+}
